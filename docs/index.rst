@@ -6,6 +6,8 @@
 Welcome to di's documentation!
 ==============================
 
+* :ref:`lol`
+
 Contents:
 .. _lol
 .. toctree::
