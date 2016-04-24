@@ -9,7 +9,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   examples
+   index
 
 Indices and tables
 ==================
