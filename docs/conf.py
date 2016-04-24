@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# Docz documentation build configuration file, created by
-# sphinx-quickstart on Sun Apr 24 18:54:34 2016.
+# di documentation build configuration file, created by
+# sphinx-quickstart on Sun Apr 24 20:16:03 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -28,9 +28,7 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-    'sphinx.ext.mathjax',
-]
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -47,9 +45,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Docz'
-copyright = u'2016, doxz'
-author = u'doxz'
+project = u'di'
+copyright = u'2016, di'
+author = u'di'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -122,7 +120,7 @@ html_theme = 'alabaster'
 
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
-#html_title = u'Docz v0.3'
+#html_title = u'di v0.3'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -204,7 +202,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Doczdoc'
+htmlhelp_basename = 'didoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -226,8 +224,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Docz.tex', u'Docz Documentation',
-     u'doxz', 'manual'),
+    (master_doc, 'di.tex', u'di Documentation',
+     u'di', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -256,7 +254,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'docz', u'Docz Documentation',
+    (master_doc, 'di', u'di Documentation',
      [author], 1)
 ]
 
@@ -270,8 +268,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Docz', u'Docz Documentation',
-     author, 'Docz', 'One line description of project.',
+    (master_doc, 'di', u'di Documentation',
+     author, 'di', 'One line description of project.',
      'Miscellaneous'),
 ]
 
