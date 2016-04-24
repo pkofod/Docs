@@ -1,11 +1,5 @@
-.. Docz documentation master file, created by
-   sphinx-quickstart on Sun Apr 24 18:54:34 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Docz's documentation!
-================================
-
+Examples
+========
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat pretium venenatis. Nulla dapibus malesuada cursus. Morbi blandit, metus vitae fringilla aliquet, ipsum leo feugiat nibh, sit amet faucibus eros est vitae felis. Vivamus tortor tellus, fermentum ac turpis eu, fringilla ultricies purus. Nunc eu mauris bibendum ligula egestas pellentesque vel non mi. Sed iaculis eros in ex lacinia, nec elementum arcu hendrerit. Mauris convallis faucibus urna, eu ullamcorper orci consequat a. In tempor feugiat nulla, sed fermentum turpis mattis ut. In pellentesque elit lacus, gravida tristique enim pharetra vel. Donec venenatis imperdiet suscipit. Aliquam aliquam lorem non maximus ornare. Cras sem quam, fermentum sed est at, dictum cursus lacus. Vivamus viverra in felis sit amet suscipit. Sed purus risus, posuere eget magna nec, egestas maximus metus.
