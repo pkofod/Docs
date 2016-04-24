@@ -1,1 +1,0 @@
-Search.setIndex({envversion:47,filenames:["first","index","second"],objects:{},objnames:{},objtypes:{},terms:{content:1,index:1,modul:1,page:1,search:1},titles:["lol","Welcome to di&#8217;s documentation!","mom"],titleterms:{document:1,indic:1,lol:0,mom:2,tabl:1,welcom:1}})
