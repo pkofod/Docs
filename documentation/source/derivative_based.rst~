@@ -1,0 +1,8 @@
+.. toctree::
+   :maxdepth: 2
+
+   derivative_free
+   derivative_based
+
+Derivative Based Methods
+=======================
